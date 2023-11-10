@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astronomy,Coding, Space and Coffee.
 - 🌱 I’m currently pro-bono software intern at Kisuitech.
 - 💞️ I’m looking to learn more on anything.
-- 📫 How to reach me -> better on Instagram or though email.
+- 📫 How to reach me -> better on Instagram or through email.
 
 <!---
 TonklarK/TonklarK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
